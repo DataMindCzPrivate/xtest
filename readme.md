@@ -1,6 +1,5 @@
-#readme
-##installation
-pip install flask 
-run python app.py
+# Stores REST Api
 
-	using falsk as a rest api`
+This is built with Flask, Flask-RESTful, Flask-JWT, and Flask-SQLAlchemy.
+
+Deployed on Heroku.
